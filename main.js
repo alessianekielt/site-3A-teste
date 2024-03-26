@@ -7,3 +7,8 @@ const botoes = document.querySelectorAll(".botao");
         botoes[i].classList.add("ativo");
     }
 }
+const textos = document. querySelectorAll(".aba-conteudo");
+textos [i].classList.add("ativo");
+textos [j].classList.remove("ativo");
+const contadores = document. querySelectorAll(".contador");
+contadores [0].textContent = "Contagem regressiva";
