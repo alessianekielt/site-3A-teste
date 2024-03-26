@@ -10,5 +10,4 @@ const textos = document. querySelectorAll(".aba-conteudo");
         textos [i].classList.add("ativo");
     }
 }
-const contadores = document. querySelectorAll(".contador");
-contadores [0].textContent = "Contagem regressiva";
+
