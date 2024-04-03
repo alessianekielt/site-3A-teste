@@ -67,13 +67,12 @@ border-radius: 0 40px 0 0;
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
-.botao.ativo{
+.botao{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
 }
 .aba-conteudo{
     display: none;
-    background-color: var(--cor-de-fundo);
 }
 .aba-conteudo.ativo{
     display: block;
