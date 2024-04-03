@@ -86,3 +86,7 @@ border-radius: 0 40px 0 0;
     color: var(--verde);
     text-transform: uppercase;
 }
+.contador{
+    font-size: 20px;
+    text-align: center;
+}
