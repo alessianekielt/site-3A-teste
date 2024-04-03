@@ -73,6 +73,7 @@ border-radius: 0 40px 0 0;
 }
 .aba-conteudo{
     display: none;
+    background-color: var(--cor-de-fundo);
 }
 .aba-conteudo.ativo{
     display: block;
