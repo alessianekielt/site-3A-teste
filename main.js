@@ -21,7 +21,7 @@ for (let i = 0; i < contadores.length; i++){
 contadores[i].textContent = calculaTempo(tempos[i]);
 }
 }
-function comecaCronometro{
+function comecaCronometro(){
 atualizaCronometro();
 setInterval(atualizaCronometro, 1000);
 }
